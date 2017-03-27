@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cedb1219-50a2-4525-a22e-007afff105ab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/addHost.html" afterPath="$PROJECT_DIR$/templates/addHost.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/addScript.html" afterPath="$PROJECT_DIR$/templates/addScript.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/addUser.html" afterPath="$PROJECT_DIR$/templates/addUser.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/ansible.html" afterPath="$PROJECT_DIR$/templates/ansible.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/deploy.html" afterPath="$PROJECT_DIR$/templates/deploy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/editHost.html" afterPath="$PROJECT_DIR$/templates/editHost.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/editUser.html" afterPath="$PROJECT_DIR$/templates/editUser.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/files.html" afterPath="$PROJECT_DIR$/templates/files.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/group.html" afterPath="$PROJECT_DIR$/templates/group.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/help.html" afterPath="$PROJECT_DIR$/templates/help.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/hosts.html" afterPath="$PROJECT_DIR$/templates/hosts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inventory.html" afterPath="$PROJECT_DIR$/templates/inventory.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/log.html" afterPath="$PROJECT_DIR$/templates/log.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/playbook.html" afterPath="$PROJECT_DIR$/templates/playbook.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/user.html" afterPath="$PROJECT_DIR$/templates/user.html" />
-    </list>
+    <list default="true" id="cedb1219-50a2-4525-a22e-007afff105ab" name="Default" comment="" />
     <ignored path="AnsibleWeb.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -517,7 +498,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
